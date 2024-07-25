@@ -1,4 +1,4 @@
-torch==1.7.1
+torch==2.2.0
 torchvision==0.8.2
 pytorch-lightning==1.1.8
 pytorch-lightning-bolts==0.3.0
